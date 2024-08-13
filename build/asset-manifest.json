@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6563ea2.css",
+    "main.js": "/static/js/main.d7ef3d0f.js",
+    "static/media/Blog.png": "/static/media/Blog.7ca6a6e03d153fd15db6.png",
+    "static/media/profile.png": "/static/media/profile.f15421a9bc463f4bbf84.png",
+    "static/media/iron.png": "/static/media/iron.d9e9def41f8cb67e134d.png",
+    "static/media/caution.png": "/static/media/caution.ad440a32d3fa42424a8f.png",
+    "static/media/hemo.png": "/static/media/hemo.83e79e55a575f9d13079.png",
+    "static/media/symptom.png": "/static/media/symptom.c501c385d55736320ddd.png",
+    "static/media/solution.png": "/static/media/solution.5895ff735bc6931d7eb9.png",
+    "static/media/cause.png": "/static/media/cause.be0c95251300f8bc54ab.png",
+    "static/media/accept.png": "/static/media/accept.4acf888bc976f1e11fe1.png",
+    "static/media/high-score.png": "/static/media/high-score.b863d11bb5147fd8dd5e.png",
+    "static/media/check.png": "/static/media/check.3681c0e66d788244dcff.png",
+    "static/media/2.png": "/static/media/2.af1804a0c4bd78679889.png",
+    "static/media/3.png": "/static/media/3.e8695ac28fd3638395b5.png",
+    "static/media/1.png": "/static/media/1.2bf225f74b70768aac3a.png",
+    "index.html": "/index.html",
+    "main.b6563ea2.css.map": "/static/css/main.b6563ea2.css.map",
+    "main.d7ef3d0f.js.map": "/static/js/main.d7ef3d0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6563ea2.css",
+    "static/js/main.d7ef3d0f.js"
+  ]
+}

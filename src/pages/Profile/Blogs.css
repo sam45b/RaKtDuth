@@ -1,0 +1,130 @@
+
+.blog-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blog-heading h1{
+    padding: 0;
+    margin: 10px auto;
+}
+
+.create-link{
+    font-size: 1.2rem;
+    margin: 10px;
+    padding: 5px 10px;
+    border-radius: 4px;
+    box-shadow: 4px 4px 6px 6px rgba(0,0,0,0.05);
+    border: 2px solid crimson;
+}
+ .create-link:hover{
+    background-color: crimson;
+    color: white;
+}
+
+
+.no-blogs{
+    margin-top: 50px;
+    /* margin-left: 20%; */
+    text-align: center;
+    margin-left: auto;
+}
+.no-blogs p{
+    color: #555;
+    padding: 10px;
+}
+
+.blog-body{
+    padding: 10px;
+    margin: 2px auto;
+    font-style: normal;
+    font-size: large;
+}
+
+.blog{
+    margin: 10px auto;
+    max-width: 1000px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #f2f2f2;
+    margin-top: 20px;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.05);
+    background-color: aliceblue;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+
+}
+.blog-body span{
+    color: crimson;
+}
+
+
+.title{
+    text-align: center;
+    color: #555;
+}
+
+
+.createdAt{
+    margin: 0;
+    margin-left: auto;
+    width: 110px;
+    color: red;
+    font-style: normal;
+    font-size: small;
+}
+.blog-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blog-image img{
+    height: 60%;
+    width: 60%;
+    border-radius: 14px;
+
+}
+
+.blog-date{
+    color: crimson;
+}
+
+.operations .options{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    padding: 0;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.operations .options li{
+    padding: 10px;
+}
+.btn1 {
+    background-color: #fff;
+    border: 2px solid #750E21;
+    color: #750E21;
+    padding: 5px;
+    font-family: "Poppins";
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    width: 250px;
+}
+
+.btn1:hover{
+    background-color: #750E21;
+    color: #fff;
+}
+
+.community-blogs{
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .host-body{
+        font-size: small;
+    }
+}

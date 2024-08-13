@@ -1,0 +1,61 @@
+.blog-body{
+    padding: 10px;
+    margin: 2px auto;
+    font-style: normal;
+    font-size: large;
+}
+
+.blog{
+    margin: 10px auto;
+    max-width: 1000px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #f2f2f2;
+    margin-top: 20px;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.05);
+    background-color: aliceblue;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+
+}
+.blog-body span{
+    color: crimson;
+}
+
+.blog-date p{
+    margin: 0;
+    color: crimson;
+}
+
+.title{
+    text-align: center;
+    color: #555;
+}
+
+.title p{
+    padding: 10px;
+}
+
+
+.createdAt{
+    margin: 0;
+    margin-left: auto;
+    width: 110px;
+    color: red;
+    font-style: normal;
+    font-size: small;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .host-body{
+        font-size: small;
+    }
+}
+
+.cummunity-heading{
+    padding: 20px;
+}

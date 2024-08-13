@@ -1,0 +1,94 @@
+.blog-image img{
+    height: 60%;
+    width: 60%;
+    text-align: center;
+    border-radius: 14px;
+}
+
+.blog-body{
+    padding: 10px;
+    margin: 2px auto;
+    font-style: normal;
+    font-size: large;
+}
+
+.blog{
+    margin: 10px auto;
+    max-width: 1000px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #f2f2f2;
+    margin-top: 20px;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.05);
+    background-color: aliceblue;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+
+}
+.blog-body span{
+    color: crimson;
+}
+
+
+.title{
+    text-align: center;
+    color: #555;
+}
+
+
+.createdAt p{
+    margin: 0;
+    margin-left: auto;
+    width: 110px;
+    color: red;
+    font-style: normal;
+    font-size: small;
+}
+
+
+
+.blog-date{
+    color: crimson;
+}
+
+.operations .options{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    padding: 0;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.operations .options li{
+    padding: 10px;
+}
+.btn1 {
+    background-color: #fff;
+    border: 2px solid #750E21;
+    color: #750E21;
+    padding: 5px;
+    font-family: "Poppins";
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    width: 250px;
+}
+
+.btn1:hover{
+    background-color: #750E21;
+    color: #fff;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .host-body{
+        font-size: small;
+    }
+    .blog-image img{
+        height: 100%;
+        width: 100%;
+        text-align: center;
+        border-radius: 14px;
+    }
+}
