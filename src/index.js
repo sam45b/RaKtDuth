@@ -12,7 +12,7 @@ root.render(
       <AuthContextProvider>
         <App />
         <Toaster  
-          //
+          
           // toastOptions={{ style: { top: "250px" } }}
           position="top-center"
           containerStyle={{
