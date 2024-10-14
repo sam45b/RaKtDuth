@@ -11,6 +11,9 @@ root.render(
     <React.StrictMode>
       <AuthContextProvider>
         <App />
+
+
+        
         <Toaster  
           
           // toastOptions={{ style: { top: "250px" } }}
