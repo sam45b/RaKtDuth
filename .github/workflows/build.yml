@@ -43,3 +43,5 @@ jobs:
         run: firebase deploy --only hosting --project raktduth
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+        working-directory: ./build  
+
